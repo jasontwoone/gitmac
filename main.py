@@ -6,6 +6,11 @@ def segundo_cambio():
 
 segundo_cambio()
 
+def tercero():
+    print("tengo el tecero")
+
+tercero()
+
 
 print("cambio ya con git hub")
 
