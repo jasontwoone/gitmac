@@ -1,6 +1,12 @@
 def nueva_linea():
     print ('hola')
 
+def segundo_cambio():
+    print("tengo mi segundo cambio")
+
+segundo_cambio()
+
+
 print("cambio ya con git hub")
 
 print("cambio ya con git hub")
