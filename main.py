@@ -22,8 +22,8 @@ print('pruebas con la rama test')
 
 
 
+def saludo():
+    print("saludando a todo mundo")
 
-
-
-
+saludo()
 
