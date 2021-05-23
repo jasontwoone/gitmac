@@ -11,6 +11,11 @@ def tercero():
 
 tercero()
 
+def cuarto():
+    print("cuarto")
+
+cuarto()
+
 
 print("cambio ya con git hub")
 
